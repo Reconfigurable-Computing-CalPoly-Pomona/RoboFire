@@ -2,7 +2,7 @@
 
 **Overview**
 
-This work is a Senior Design Project California State Polytechnic University Pomona, developing a controllable fire extinguishing gorund vehicle using a Raspberry Pi.
+This work is a Senior Design Project California State Polytechnic University Pomona, developing a controllable fire extinguishing ground vehicle using a Raspberry Pi.
 
 **Team Members:**
 
