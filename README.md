@@ -13,6 +13,12 @@ This work is a Senior Design Project California State Polytechnic University Pom
 **Supervising Professor:** 
 
 **- Mohamed El-Hadedy:** Assistant Professor, Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.
+
+**Collaborators:**
+
+**1. Wen-Mei Hwu:**  Director of Center for Cognitive Computing Systems Research and Walter J. Sanders III-AMD Endowed Chair Professor in Elecrical and Computer Engineering at UIUC 
+
+**2. Jinjun Xiong:** Director of Center for Cognitive Computing Systems Research and Adjunct Research Professor at UIUC  
  
  **Demonstration Video:**
 
@@ -36,3 +42,10 @@ As seen in Figure 1 the finished product was compact and splash-proof with the o
 
 **Current project state and future plans**
 The current state of the project is a working controllable vehicle that automatically sprays water upon fire detection. Plans for expansion include but are not limited to: the implementation of image processing software on the board to replace flame sensors, integrate the ability to control the motors using PWM, and ultimately, making the ground vehicle fully autonomous. 
+
+**Project Sponsors:**
+
+1. **[IBM](https://www.ibm.com)**
+
+2. **[IBM-Illinois Center for Cognitive Computing Systems Research](https://www.c3sr.com/)**
+
