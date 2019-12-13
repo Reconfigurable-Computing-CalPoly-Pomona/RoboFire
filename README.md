@@ -34,4 +34,4 @@ As seen in Figure 1 the finished product was compact and splash-proof with the o
 
 
 **Current project state and future plans**
-The current state of the project is a working controllable vehicle that automatically sprays water upon detecting fire. Plans for expansion include but are not limited to: the implementation of image processing software on the board to replace flame sensors, integrate the ability to control the motors using PWM and ultimately, making the gorund vehicle fully autonomous. 
+The current state of the project is a working controllable vehicle that automatically sprays water upon fire detection. Plans for expansion include but are not limited to: the implementation of image processing software on the board to replace flame sensors, integrate the ability to control the motors using PWM, and ultimately, making the gorund vehicle fully autonomous. 
