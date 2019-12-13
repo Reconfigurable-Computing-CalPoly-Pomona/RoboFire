@@ -21,7 +21,7 @@ This work is a Senior Design Project California State Polytechnic University Pom
 
 **Implementation**
 
-As seen in Figure 1 the finished product was compact and splash-proof with the only elements exposed being the camera and the fire sensor. 
+As seen in Figure 1 the finished product was compact and splash-proof with the only elements exposed being the camera,the fire sensor and the water reservoir with its respective components. 
 
 <p align="center">
 <img src= "https://github.com/Reconfigurable-Computing-CalPoly-Pomona/RoboFire/blob/master/diagonal.jpeg" >
