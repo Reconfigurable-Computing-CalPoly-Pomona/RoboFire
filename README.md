@@ -1,7 +1,7 @@
 
 **Overview**
 
-This work has been done as a Senior Design Project California State Polytechnic University Pomona, developing a fire extinguishing robot using a Raspberry Pi.
+This work is a Senior Design Project California State Polytechnic University Pomona, developing a controllable fire extinguishing gorund vehicle using a Raspberry Pi.
 
 **Team Members:**
 
@@ -17,3 +17,14 @@ This work has been done as a Senior Design Project California State Polytechnic 
 
 
 --------------------------------------
+
+
+**Implementation**
+
+As seen in Figure 1 the finished product was compact and splash-proof with the only elements exposed being the camera and the fire sensor. 
+
+<p align="center">
+<img src= >
+
+	Figure 1: Trapezoidal vs S-Curve (velocity vs time)
+</p>
