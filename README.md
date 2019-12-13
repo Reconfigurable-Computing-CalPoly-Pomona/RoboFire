@@ -36,6 +36,14 @@ As seen in Figure 1 the finished product was compact and splash-proof with the o
 	Figure 1: Fire extingushing ground vehicle.
 </p>
 
+Figure 2 depicts the hardware architecture of the project.
+
+<p align="center">
+<img src= "" >
+
+	Figure 1: Ground vehicle hardware architecture.
+</p>
+
 
 --------------------------------------
 
