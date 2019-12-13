@@ -26,5 +26,5 @@ As seen in Figure 1 the finished product was compact and splash-proof with the o
 <p align="center">
 <img src= >
 
-	Figure 1: Trapezoidal vs S-Curve (velocity vs time)
+	Figure 1: fire extingushing ground vehicle.
 </p>
