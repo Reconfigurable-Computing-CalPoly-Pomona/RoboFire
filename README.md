@@ -39,7 +39,7 @@ As seen in Figure 1 the finished product was compact and splash-proof with the o
 Figure 2 depicts the hardware architecture of the project.
 
 <p align="center">
-<img src= "" >
+<img src= "https://github.com/Reconfigurable-Computing-CalPoly-Pomona/RoboFire/blob/master/Elec_arch.PNG" >
 
 	Figure 1: Ground vehicle hardware architecture.
 </p>
