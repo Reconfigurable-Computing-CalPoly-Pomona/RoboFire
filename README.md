@@ -41,7 +41,8 @@ As seen in Figure 1 the finished product was compact and splash-proof with the o
 Figure 2 depicts the hardware architecture of the project.
 
 <p align="center">
-<img src= "https://github.com/Reconfigurable-Computing-CalPoly-Pomona/RoboFire/blob/master/Capture2.PNG" >
+<img src= "https://github.com/Reconfigurable-Computing-CalPoly-Pomona/RoboFire/blob/master/Elec_arch.PNG" >
+	
 
 	Figure 2: Ground vehicle hardware architecture.
 </p>
@@ -54,7 +55,7 @@ Figure 2 depicts the hardware architecture of the project.
 The current state of the project is a working controllable vehicle that automatically sprays water upon fire detection. Plans for expansion include but are not limited to: the implementation of image processing software on the board to replace flame sensors, integrate the ability to control the motors using PWM, and ultimately, making the ground vehicle fully autonomous. 
 
 <p align="center">
-<img src= "https://github.com/Reconfigurable-Computing-CalPoly-Pomona/RoboFire/blob/master/Elec_arch.PNG" >
+<img src= "https://github.com/Reconfigurable-Computing-CalPoly-Pomona/RoboFire/blob/master/Capture2.PNG" >
 
 	Figure 3: CPU utilization.
 </p>
