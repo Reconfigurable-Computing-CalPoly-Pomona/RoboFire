@@ -20,7 +20,7 @@ This work is a Senior Design Project California State Polytechnic University Pom
 
 **2. Jinjun Xiong:** Director of Center for Cognitive Computing Systems Research and Adjunct Research Professor at UIUC  
  
- **Demonstration Video:**
+
 
 
 --------------------------------------
